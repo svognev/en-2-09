@@ -1,0 +1,58 @@
+{
+    "features": [
+      {
+        "title": "Spell check",
+        "text": "No one likes to write texts with mistakes, right? Especially if this is what you do on the daily basis.\n\nThe “Spell check” feature enables you to not only see the spelling mistake but also get the suggestions on how to correct it. Do you see a redlined word? Right-click on it and the “Spell check” will be displayed in the menu.\n\nYou can immediately correct an error by selecting one of the suggestions. No need to stress out about your grammar anymore, you could pay more attention to the content instead and meet all of your deadlines.",
+        "icon": "https://i.ibb.co/sgF5mN6/09-1.png",
+        "image": "https://i.ibb.co/kQSsy03/im01.png"
+      },
+      {
+        "title": "Section tags",
+        "text": "We all seek for ways to simplify our browsing in the document. Using section tags might be your answer!\n\nYou can tag any section regardless of its type. Just with a couple of tags you can instantly categorize and label sections, thus become a master of the quick search later on.\n\nThere are various types of section tags. Moreover, these are configurable for every system individually. There are such tag-type specific fields as checkboxes, radio buttons, dropdowns etc. For instance, left-click on the weblink-field tag type opens the attached web link in a new browser tab. Tag type “Priority” includes three levels of prioritization when pointing out primary issues is needed.\n\nNice bonus: a number of section tags per one section is unlimited.",
+        "icon": "https://i.ibb.co/j67gf61/09-2.png",
+        "image": "https://i.ibb.co/Jd3R2pW/im02.png"
+      },
+      {
+        "title": "Magic tabs",
+        "text": "If you constantly have to create well-performed lists in your documents, then you are probably already acquainted with our “Magic tabs” feature.Activating “Magic tabs” means getting the control over the distance between the list item and the text. Instead of our long and boring “how does it work” explanation better have a look at the examples underneath.",
+        "icon": "https://i.ibb.co/YfzDn4t/09-3.png",
+        "image": "https://i.ibb.co/56GswTJ/im03.png"
+      },
+      {
+        "title": "Undo feature",
+        "text": "All of you were asking for it. Even for our SMASHDOCs team, this feature became a relief. From now on if you wrote something and made a mistake or accidentally deleted some important information, you can easily set things back to the way they were by using the “Undo” shortcut = Cmd + Z for Mac or Ctrl + Z for Windows. Undo action deletes the last written word in the section.\n\nAdditionally every undo action can also be redone with Cmd + Shift + Z for Mac or Ctrl + Shift + Z for Windows.\n\nGood news: the number of actions to be undone is unlimited.",
+        "icon": "https://i.ibb.co/jzWmyFy/09-4.png",
+        "image": "https://i.ibb.co/QFpnGLP/im04.png"
+      },
+      {
+        "title": "More functionality to draft section",
+        "text": "From now on SMASHDOCs logs all changes to the content not only in the review mode (when you’ve shared the document with other users) but also in draft mode (your private document) as well. You just have to press the “Track changes” button. This way your draft document will be labelled as “Review”, although still remaining just yours and private. All changes will be logged. To add further users to the document share it for review by clicking on the “Share” button.\n\nFurthermore, you can also leave comments and bookmark the sections in your draft alike in the review mode documents.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/H4QsFY9/im05.jpg"
+      },
+      {
+        "title": "SD Shortcuts",
+        "text": "You clearly got the idea that all we do is simplify. Performing any type of action in SMASHDOCs got easier than ever! Just use our wide range of shortcuts both for Windows and Mac users.\n\nHere is a hint of some shortcuts for you. The full list of Shortcuts you can find in the section 3.1.5 of our User Manual.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/CV2XtvB/im06.png"
+      },
+      {
+        "title": "Improved formatting experience",
+        "text": "Sounds difficult. But makes formatting extremely easy to use.\n\nWe got rid of “Remove paragraph style” and “Clear Formatting” both from paragraph decorators dropdown and window. Instead, placed these in our toolbar. Hence, two separate icons right in front of your eyes make document editing effortless.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/3hPRJJQ/im07.png"
+      },
+      {
+        "title": "Support nested lists in the table editor",
+        "text": "We constantly enhance our editing options in tables. Surely, it is an ever going process.\n\nIn this release, we added nested or so-called embedded multilevel lists. These will help you to structure the data in a consistent and logical way, organize notes according to topics and not get lost in the scope of information.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/Ry26bHM/im08.png"
+      },
+      {
+        "title": "Redesign of a Paragraph Decorators window",
+        "text": "By developing our new functionality we pay attention not only to your efficient work with documents but do also care about your user experience. That’s why we decided to redesign our paragraph decorators dropdown window more user-friendly. Furthermore, we added two buttons for you to either expand all of the styles or collapse some/all of them when needed.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/n78Zy2d/im09.png"
+      }
+    ]
+}
